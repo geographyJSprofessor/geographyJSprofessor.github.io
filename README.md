@@ -36,8 +36,7 @@
         <ul>
           <li><a href="#">Project 1</a></li>
           <li><a href="#">Project 2</a></li>
-          <li><a href="#">Project 3</a></li>
-          [Heli Map](https://geographyjsprofessor.github.io/helimap/)
+          <li><a href="https://geographyjsprofessor.github.io/helimap/">Project 3</a></li>
         </ul>
       </section>
       <section id="contact">
